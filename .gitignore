@@ -1,0 +1,9 @@
+expo-env.d.ts
+.expo
+node_modules
+package-lock.json
+
+# SQLite databases
+*.db
+*.db-journal
+*.sqlite
