@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Todo App",
-    "slug": "todo-app",
+    "name": "opentodo",
+    "slug": "opentodo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -9,14 +9,14 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.yourname.todo"
+      "bundleIdentifier": "com.yourname.opentodo"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.yourname.todo"
+      "package": "com.yourname.opentodo"
     },
     "web": {
       "favicon": "./assets/images/favicon.png",

@@ -44,7 +44,7 @@ export default function WelcomeScreen() {
         {/* Text Content */}
         <View style={styles.textContainer}>
           <Text style={styles.title}>
-            todo<Text style={{ color: "#0D9488" }}>!</Text>
+            opentodo<Text style={{ color: "#0D9488" }}>!</Text>
           </Text>
           <Text style={styles.subtitle}>
             Organize your work and life{"\n"}with clarity and focus.

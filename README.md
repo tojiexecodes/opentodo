@@ -1,4 +1,4 @@
-# 📝 TaskMaster: open-todo
+# 📝 TaskMaster: opentodo
 
 A sleek, **Local-First** mobile task management application built with **React Native** and **Expo**. Designed for speed and privacy, your data never leaves your device.
 
@@ -37,10 +37,10 @@ A sleek, **Local-First** mobile task management application built with **React N
 
 ```bash
 # Clone the repository
-git clone [https://github.com/tojiexecodes/open-todo.git](https://github.com/tojiexecodes/open-todo.git)
+git clone https://github.com/tojiexecodes/openhtodo.git
 
 # Navigate into the project directory
-cd open-todo
+cd opentodo
 
 # Install dependencies
 npm install
