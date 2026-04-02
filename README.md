@@ -2,6 +2,33 @@
 
 A sleek, **Local-First** mobile task management application built with **React Native** and **Expo**. Designed for speed and privacy, your data never leaves your device.
 
+## 📱 Product Demo
+
+\<div align="center"\>
+\<table style="width:100%"\>
+\<tr\>
+\<td align="center" width="25%"\>
+\<img src="./assets/images/Landing.jpg" width="100%" alt="Landing Screen"/\>\<br /\>
+\<b\>Landing\</b\>
+\</td\>
+\<td align="center" width="25%"\>
+\<img src="./assets/images/home.jpg" width="100%" alt="Home Dashboard"/\>\<br /\>
+\<b\>Dashboard\</b\>
+\</td\>
+\<td align="center" width="25%"\>
+\<img src="./assets/images/list.jpg" width="100%" alt="Task List"/\>\<br /\>
+\<b\>Task List\</b\>
+\</td\>
+\<td align="center" width="25%"\>
+\<img src="./assets/images/Create-todo.jpg" width="100%" alt="Create Task"/\>\<br /\>
+\<b\>Create Task\</b\>
+\</td\>
+\</tr\>
+\</table\>
+\</div\>
+
+-----
+
 ## 🚀 Features
 
   * **Offline-First**: Powered by **Expo SQLite** and **Zustand** for lightning-fast performance without needing an internet connection.
@@ -51,31 +78,19 @@ npm install
 npx expo start
 ```
 
-  * **Physical Device**: Scan the QR code with the **Expo Go** app (Android) or **Camera** (iOS).
-  * **Simulators**: Press **`i`** for iOS or **`a`** for Android.
-  * **Clear Cache**: If you face issues, run `npx expo start -c`.
-
 -----
 
 ## 🏗️ Project Structure
 
 ```text
 ├── app/               # Expo Router pages (index, home, today, modal)
-├── assets/            # Images, splash screen, and icons
+├── assets/            # Images, screenshots, and icons
 ├── components/        # Reusable UI components
 ├── store/             # Zustand store logic & SQLite persistence
 └── scripts/           # Maintenance and reset scripts
 ```
 
 -----
-
-## 🤝 Contributing
-
-1.  Fork the project.
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
 
 ## 📄 License
 
