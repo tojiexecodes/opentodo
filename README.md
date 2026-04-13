@@ -6,7 +6,7 @@ A sleek, **Local-First** mobile task management application built with **React N
 
 | Landing | Dashboard | Task List | Create Task |
 | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/tojiexecodes/todo%21/main/assets/images/Landing.jpg" width="200" /> | <img src="https://raw.githubusercontent.com/tojiexecodes/todo%21/main/assets/images/home.jpg" width="200" /> | <img src="https://raw.githubusercontent.com/tojiexecodes/todo%21/main/assets/images/list.jpg" width="200" /> | <img src="https://raw.githubusercontent.com/tojiexecodes/todo%21/main/assets/images/Create-todo.jpg" width="200" /> |
+| <img src="/assets/images/Landing.jpg" width="200" /> | <img src="/assets/images/home.jpg" width="200" /> | <img src="/assets/images/Create-todo.jpg" width="200" /> | <img src="/assets/images/list.jpg" width="200" /> |
 
 ---
 

@@ -7,3 +7,6 @@ package-lock.json
 *.db
 *.db-journal
 *.sqlite
+
+android
+ios
